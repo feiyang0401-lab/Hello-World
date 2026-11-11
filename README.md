@@ -1,2 +1,2 @@
 # Hello-World
-Learning part
+此仓库用于练习GitHub Flow
